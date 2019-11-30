@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#80000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_color">#00BCD9</color>
+    <color name="app1_color">#4EACC6</color>
+    <color name="tag_background">#EFF5FD</color>
+    <color name="skipButtonColor">#88c3dffb</color>
+    <color name="category_selected_background">#FFFFFF</color>
+    <color name="category_normal_background">#E9F1FE</color>
+    <color name="gray_f6">#f6f6f6</color>
+    <color name="gray_33">#c3c3c3</color>
+    <color name="gray_66">#666666</color>
+    <color name="gray_99">#999999</color>
+    <color name="gray_ee">#EEEEEE</color>
+    <color name="grayd8">#D8D8D8</color>
+    <color name="background_f2">#f2f2f2</color>
+    <color name="gray_d4">#d4d4d4</color>
+    <color name="green">#2DDB97</color>
+    <color name="code_background">#1CB7CF</color>
+    <color name="color_8290AF">#5A96F0</color>
+    <color name="default_clickable_color">#cccccc</color>
+    <color name="praise_item_default">#333333</color>
+    <color name="praise_item_selector_default">#cccccc</color>
+    <color name="submit_background">#F0F3FA</color>
+    <color name="progress_start">#31DBDB</color>
+    <color name="progress_end">#FEDB18</color>
+    <color name="progress_default">#F9FFFF</color>
+    <color name="progress_text_color">#08B5FF</color>
+    <color name="history_delete_red_color">#DC2424</color>
+    <color name="history_delete_grey_color">#BBBBBB</color>
+    <color name="address_label_color">#3184FC</color>
+    <color name="search_background_color">#f5f5f5</color>
+    <color name="circle_bottom_color">#4D4D4D</color>
+    <color name="photopicker_background">#181819</color>
+    <color name="category_left_text">#1B130F</color>
+    <color name="blue">#5a92f0</color>
+    <color name="red">#EF312A</color>
+    <color name="repeat_name_color">#FC3131</color>
+    <color name="video_price_color">#FF4100</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="border_e52">#e5e5e5</color>
+    <color name="c_divider">#E2E2E2</color>
+    <color name="c_press">#E2E2E2</color>
+    <color name="video_grey">#949494</color>
+    <color name="greyff">#F7F7FA</color>
+    <!-- 主题颜色-->
+    <color name="darkgrey"> #C0C0C0</color>
+    <!-- 黑色 -->
+    <color name="cutting_line">#dfdfdf</color>
+
+    <color name="my_text_color">#999999</color>
+    <color name="my_text_color_black">#1B130F</color>
+
+    <color name="wheel_bg">#f2f2f2</color>
+
+    //阿里云
+    <color name="alivc_color_player_background">#1e222d</color>
+
+    <color name="alivc_white">#e7e7e7</color>
+    <color name="alivc_blue">#379DF2</color>
+    <color name="alivc_green">#57AB44</color>
+    <color name="alivc_orange">#EE7C33</color>
+    <color name="alivc_red">#E94033</color>
+
+    <color name="alivc_info_text_duration">#9f9e9e</color>
+    <color name="alivc_dialog_error_bg">#b2000000</color>
+    <color name="alivc_dialog_gesture_bg">#66ffffff</color>
+    <color name="alivc_gesture_text_color">#333333</color>
+
+    <color name="alivc_color_rate_item">#4c000000</color>
+
+    <color name="alivc_color_player_colorAccent">#00c1de</color>
+    <color name="alivc_color_player_manager_background">#373d41</color>
+
+    <color name="alivc_color_action_list_dialog_background">#1e2321</color>
+    <color name="alivc_color_gray">#D8D8D8</color>
+    <color name="alivc_dialog_bg_translucent">#E6373d41</color>
+
+    <color name="colorPrimary_alpha_five">#1affffff</color>
+
+    <color name="add_download_info_background">#373d41</color>
+    <color name="delete_download_info_background">#373d41</color>
+    <color name="alivc_color_player_list_item_press">#2d3342</color>
+
+    <color name="circle_tablayout_select_color">#5A92F0</color>
+    <color name="circle_tablayout_unselect_color">#CECEDA</color>
+
+</resources>
